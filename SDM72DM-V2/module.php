@@ -22,7 +22,7 @@ require_once __DIR__ . '/../libs/BGETechModule.php';  // diverse Klassen
  */
 class SDM72DMV2 extends BGETech
 {
-    const PREFIX = 'SDM72DM-V2';
+    const PREFIX = 'SDM72DMV2';
 
     public static $Variables = [
         ['Phase 1 line to neutral volts', VARIABLETYPE_FLOAT, 'Volt.230', 0x0000, 4, 2, true],
