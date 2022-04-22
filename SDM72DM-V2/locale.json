@@ -34,7 +34,7 @@
 		 "Phase 1 power factor (1)": "Leistungsfaktor L1",
 	 	 "Phase 2 power factor (1)": "Leistungsfaktor L2",
 	 	 "Phase 3 power factor (1)": "Leistungsfaktor L3",
-		 "Average line to neutral volts": "durchschnittliche Spannung Außenleiter - Neutralleiter,
+		 "Average line to neutral volts": "durchschnittliche Spannung Aussenleiter - Neutralleiter",
 		 "Average line current": "durchschnittlicher Leiterstrom",
 		 "Sum of line currents": "Summe der Leiterströme",
 		 "Total system power": "Leistung gesamt",
