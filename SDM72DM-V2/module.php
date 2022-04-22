@@ -20,7 +20,7 @@ require_once __DIR__ . '/../libs/BGETechModule.php';  // diverse Klassen
  * SDM72DM-V2 ist die Klasse für die SDM72DM-V2 ModBus Energie-Zähler der Firma B+G E-Tech
  * Erweitert BGETech.
  */
-class SDM72DM-V2 extends BGETech
+class SDM72DMV2 extends BGETech
 {
     const PREFIX = 'SDM72DM-V2';
 
