@@ -54,7 +54,7 @@ class SDM72DMV2 extends BGETech
 	['Line 3 to Line 1 volts', VARIABLETYPE_FLOAT, 'Volt.230', 0x00CC, 4, 2, true],
 	['Average line to line volts', VARIABLETYPE_FLOAT, 'Volt.230', 0x00CE, 4, 2, true],
 	['Neutral current', VARIABLETYPE_FLOAT, 'Ampere', 0x00E0, 4, 2, true],
-	['Total active Energy', VARIABLETYPE_FLOAT, 'Electricity', 0x0156, 4, 2, true],
+	['Total active energy', VARIABLETYPE_FLOAT, 'Electricity', 0x0156, 4, 2, true],
 	['Total reactive energy', VARIABLETYPE_FLOAT, 'kVArh', 0x0158, 4, 2, true],
 	['resettable total active energy', VARIABLETYPE_FLOAT, 'Electricity', 0x0180, 4, 2, true],
 	['resettable import active energy', VARIABLETYPE_FLOAT, 'Electricity', 0x0184, 4, 2, true],
