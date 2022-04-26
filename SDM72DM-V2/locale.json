@@ -44,7 +44,7 @@
             "Line 3 to Line 1 volts": "Spannung zwischen L3 und L1",
             "Average line to line volts": "durchschnittliche Spannung zwischen den Aussenleitern",
             "Neutral current": "Strom N",
-            "Total active Energy": "Wirkleistung gesamt",
+            "Total active energy": "Wirkleistung gesamt",
             "Total reactive energy": "Blindleistung gesamt",
             "resettable total active energy": "Wirkleistung gesamt rücksetzbar",
             "resettable import total active energy": "Wirkleistung import rücksetzbar",
